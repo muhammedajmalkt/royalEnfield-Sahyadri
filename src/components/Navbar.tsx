@@ -33,7 +33,7 @@ const Navbar = () => {
               ACCESSORIES
             </Link>
           </div>
-          <button className="text-red-500 cursor-pointer">LOGIN</button>
+          <button className="text-red-500 cursor-pointer hover:drop-shadow-2xl hover:text-white hover:bg-red-500 px-2 py-1 rounded-lg">LOGIN</button>
 
           <div className="md:hidden">
             <button
