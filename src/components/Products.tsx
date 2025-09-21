@@ -24,7 +24,7 @@ const product = [
 
 const Products = () => {
   return (
-    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 p-6  mt-36 scale-z-150">
+    <div className=" font-bebas grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 p-6  mt-36 scale-z-150">
       {product.map((item, i) => (
         <div key={i} className="rounded-xl overflow-hidden shadow-md bg-gradient-to-b  from-[#000000]   to-[#444343]/80 cursor-pointer group">
 

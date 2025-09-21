@@ -35,7 +35,7 @@ export default function Home() {
       </div>
 
 
-      <section className=" flex gap-5 px-22 py-24  ">
+      <section className=" lg:flex gap-5 lg:px-22 lg:py-24 py-18  ">
         <MainSection/>
         <SubSection/>
       </section>

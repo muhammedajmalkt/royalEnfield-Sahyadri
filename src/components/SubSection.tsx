@@ -3,8 +3,8 @@ import React from "react";
 
 const SubSection = () => {
   return (
-    <div className="bg-primary w-3/7 p-5 rounded-2xl h- flex flex-col">
-      <div className="relative h-4/8 w-full mt-6">
+    <div className="bg-primary lg:w-3/7 p-5 rounded-2xl h- flex flex-col">
+      <div className="  hidden md:flex  relative h-4/8 w-full mt-6">
         <Image
           src="/hunter1.jpg"
           alt="hunter"
@@ -12,7 +12,7 @@ const SubSection = () => {
           className="object-cover rounded-2xl"
         />
 
-        <div className="absolute top-0 left-2/3 bg-black/50 text-white/80 px-3 py-6  h-full text-xs ">
+        <div className=" absolute top-0 left-2/3 bg-black/50 text-white/80 px-3 py-6  h-full text-xs ">
           At the heart of the Hunter beats a fuel-injected, long-stroke 350cc
           J-engine that delivers a smoother ride, higher RPM and dollops of
           torque. Paired with a steady downtube spine frame and grounded
@@ -22,7 +22,7 @@ const SubSection = () => {
         </div>
       </div>
 
-<div className="flex items-center justify-center my-6 gap-4 h-e40">
+<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 items-center justify-center my-6 gap-4 h-e40">
   {["/hunter2.jpg", "/hunter3.jpg", "/hunter4.jpg"].map((i) => (
     <div key={i} className="rounded-2xl overflow-hidden">
       <Image
