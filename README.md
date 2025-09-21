@@ -36,5 +36,5 @@ npm run dev
 **Open in your browser**:
 
 ```bash
-https://exquisite-blancmange-c1aafe.netlify.app/
+https://royalenfield-sahyadri.netlify.app/
 ```
