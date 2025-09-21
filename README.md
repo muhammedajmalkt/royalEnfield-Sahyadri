@@ -36,6 +36,5 @@ npm run dev
 **Open in your browser**:
 
 ```bash
-http://localhost:3000
-
+https://exquisite-blancmange-c1aafe.netlify.app/
 ```
