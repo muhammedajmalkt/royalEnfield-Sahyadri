@@ -17,7 +17,7 @@ const SubSection = () => {
           J-engine that delivers a smoother ride, higher RPM and dollops of
           torque. Paired with a steady downtube spine frame and grounded
           suspension, the Hunter 350 gives the right amount of power and
-          precision, whether you're revving up the city streets or gunning down
+          precision, whether you&apos;re revving up the city streets or gunning down
           the motorway.{" "}
         </div>
       </div>

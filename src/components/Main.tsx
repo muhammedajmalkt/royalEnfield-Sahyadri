@@ -10,7 +10,7 @@ const Main = () => {
           The Hunter 350 fills a space in the Royal Enfield lineup. It has the
           sound, feel, and character you expect from a Royal Enfield single, and
           the lighter, more nimble chassis design feels more modern and refined.
-          It's not as traditional, but that's the point—and it certainly isn't
+          It&apos;s not as traditional, but that&apos;s the point—and it certainly isn&apos;t
           generic
         </p>
 
