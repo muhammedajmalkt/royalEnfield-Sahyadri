@@ -3,7 +3,7 @@
 A modern Royal Enfield inspired UI built with Next.js 14, Tailwind CSS,Shadcn, and React.  
 The project focuses on a clean design, responsive layout, and smooth hover animations.
 
----
+
 
 ## Features
 
@@ -13,7 +13,7 @@ The project focuses on a clean design, responsive layout, and smooth hover anima
 - Smooth hover animations (scale, transition effects)
 - Image components optimized with `next/image`
 
----
+
 
 ## Installation & Setup
 
